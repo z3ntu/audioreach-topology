@@ -267,6 +267,8 @@ define(`LPI_MI2S_RX_3', `143') dnl
 define(`LPI_MI2S_TX_3', `144') dnl
 define(`LPI_MI2S_RX_4', `145') dnl
 define(`LPI_MI2S_TX_4', `146') dnl
+define(`SENARY_MI2S_RX', `147') dnl
+define(`SENARY_MI2S_TX', `148') dnl
 define(`SND_SOC_AR_TPLG_FE_BE_GRAPH_CTL_MIX', `256') dnl
 define(`SND_SOC_AR_TPLG_VOL_CTL', `257') dnl
 define(`NONE_IID', `0x0') dnl
